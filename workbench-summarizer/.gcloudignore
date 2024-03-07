@@ -1,0 +1,6 @@
+# ignore these files and directores when deploying cloud function
+scratch_code.py
+main_test.py
+
+__pycache__
+.venv
